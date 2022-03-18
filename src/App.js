@@ -1,7 +1,8 @@
-import logo from './logo.svg';
+
 import './App.css';
-import Model from "./Model";
+import Data from './Data';
 function App() {
+    const data = Data();
   return (
     <div className="App">
         <h1>hej</h1>
